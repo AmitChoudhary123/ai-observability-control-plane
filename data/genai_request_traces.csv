@@ -1,0 +1,5 @@
+request_id,latency_ms,cost_usd,quality_score,status
+r-001,1200,0.021,0.91,ok
+r-002,4100,0.044,0.86,timeout_risk
+r-003,1800,0.079,0.74,cost_quality_risk
+r-004,950,0.018,0.88,ok
